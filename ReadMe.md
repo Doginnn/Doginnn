@@ -1,5 +1,13 @@
 # 💫 About Me:
-👋 Olá! Sou o Diógenes Dantas.<br><br>📚 Sou formado em Análises e Desenvolvimento de Sistemas e tenho uma paixão por tecnologia.<br>💻 Com 3(três) anos de experiência na área de desenvolvimento, minha jornada tem sido focada no desenvolvimento Back-End, onde construí soluções robustas e escaláveis.<br>🔧 Minha Stack de habilidades inclui PHP, Laravel, GraphQL para o Back-End, além de bancos de dados relacionais como MariaDB, MySQL e PostgreSQL.<br>🐳 Também sou proficiente em ferramentas de versionamento e virtualização, incluindo GitHub, DockerHub, Pipenv, Virtualenv, Docker e Docker Compose.<br>🌟 Sou um entusiasta do Software Livre e acredito na colaboração aberta para impulsionar o avanço tecnológico.<br>🌐 Além disso, estou sempre em busca de conhecimento e sou apaixonado por explorar tecnologias emergentes. No meu tempo livre, experimento com Python, Django e Django REST Framework em projetos pessoais e de estudo.<br>📖 Estou ansioso para expandir minha rede e conectar com colegas apaixonados por tecnologia. Vamos conversar sobre desenvolvimento, inovação e colaboração!
+👋 Hi! I'm Diógenes Dantas.
+
+📚 I have a degree in Systems Analysis and Development and a passion for technology.<br>
+💻 With 3 (three) years of experience in development, my journey has been focused on Back-End development, where I've built robust and scalable solutions.<br>
+🔧 My skill stack includes PHP, Laravel, and GraphQL for Back-End development, as well as relational databases like MariaDB, MySQL, and PostgreSQL.<br>
+🐳 I'm also proficient with versioning and virtualization tools, including GitHub, DockerHub, Pipenv, Virtualenv, Docker, and Docker Compose.<br>
+🌟 I'm a Free Software enthusiast and believe in open collaboration to drive technological advancement.<br>
+🌐 Additionally, I'm always seeking knowledge and love exploring emerging technologies. In my free time, I experiment with Python, Django, and the Django REST Framework in personal and study projects.<br>
+📖 I'm excited to expand my network and connect with fellow tech enthusiasts. Let's talk about development, innovation, and collaboration!
 
 
 ## 🌐 Socials:
