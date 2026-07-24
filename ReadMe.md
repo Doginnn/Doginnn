@@ -2,8 +2,8 @@
 👋 Hi! I'm Diógenes Dantas.
 
 📚 I have a degree in Systems Analysis and Development and a passion for technology.<br>
-💻 With 3+ (three) years of experience in development, my journey has been focused on Back-End development, where I've built robust and scalable solutions.<br>
-🔧 My skill stack includes PHP, Laravel, and GraphQL for Back-End development, as well as relational databases like MariaDB, MySQL, and PostgreSQL.<br>
+💻 With 5+ (three) years of experience in development, my journey has been focused on Back-End development, where I've built robust and scalable solutions.<br>
+🔧 My skill stack includes PHP, Laravel for Back-End development, as well as relational databases like MariaDB, MySQL, and PostgreSQL.<br>
 🐳 I'm also proficient with versioning and virtualization tools, including GitHub, DockerHub, Pipenv, Virtualenv, Docker, and Docker Compose.<br>
 🌟 I'm a Free Software enthusiast and believe in open collaboration to drive technological advancement.<br>
 🌐 Additionally, I'm always seeking knowledge and love exploring emerging technologies. In my free time, I experiment with Python, Django, and the Django REST Framework in personal and study projects.<br>
